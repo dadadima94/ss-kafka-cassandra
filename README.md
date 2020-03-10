@@ -1,4 +1,5 @@
 # Spark Streaming Stateful Application
+### co-author: [Marina Angelovska](https://github.com/marinaangelovska) 
 
 A simple stateful application that readins streaming data from Kafka and stores the result in Cassandra.
 
