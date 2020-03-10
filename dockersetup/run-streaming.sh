@@ -1,0 +1,1 @@
+docker-compose exec spark-runner sbt run
